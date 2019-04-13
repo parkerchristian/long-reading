@@ -1,0 +1,23 @@
+{
+  "name": "long-reading",
+  "version": "1.0.0",
+  "description": "Long Reading Assignment",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkerchristian/long-reading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parkerchristian/long-reading/issues"
+  },
+  "homepage": "https://github.com/parkerchristian/long-reading#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.7.1"
+  }
+}
